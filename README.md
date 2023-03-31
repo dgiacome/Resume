@@ -1,7 +1,7 @@
 # Resume 
 Resume
 
-DANIEL GIACOMELLI, PMP  (215)499-7131  |  dan@giacomelli.com  |  https://linkedin.com/in/giacomelli
+DANIEL GIACOMELLI, PMP, MCP  (215)499-7131  |  dan@giacomelli.com  |  https://linkedin.com/in/giacomelli
 
 INFORMATION TECHNOLOGY ARCHITECT and PROGRAM MANAGEMENT PROFESSIONAL
 
@@ -66,7 +66,7 @@ EDUCATION, CAREER DEVELOPMENT, COMMUNITY
 >>West Virginia University: Bachelor of Science, Business Administration, Operations Management, Minor in Industrial Engineering 
 
 Professional Affiliations, Certifications, and Awards:
->>Microsoft Certified Professional (MCP 943516); Institute for Electrical and Electronics Engineers (IEEE #40249910); Association of Internet Professionals (AIP #010837); Project Management Professional (PMP ID 485396); IT Infrastructure Library (ITIL) Foundations v2 Certified; Front Line Manager certified (DDI); Canon Spirit Award Winner 2008; USSF Grade 8 Certified Referee; Certified Contact Tracer 2020; 3rd Degree Master Mason F.& A.M.; FEMA Certifications: IS-00100.c, IS-00230.d, IS-00700.b, IS-00800.c, IS-00907.
+>> Microsoft Certified Professional (MCP 943516), Azure AZ900 Certified; Institute for Electrical and Electronics Engineers (IEEE #40249910); Association of Internet Professionals (AIP #010837); Project Management Professional (PMP ID 485396); IT Infrastructure Library (ITIL) Foundations v2 Certified; Front Line Manager certified (DDI); Canon Spirit Award Winner 2008; USSF Grade 8 Certified Referee; Certified Contact Tracer 2020; 3rd Degree Master Mason F.& A.M.; FEMA Certifications: IS-00100.c, IS-00230.d, IS-00700.b, IS-00800.c, IS-00907.
 
 Additional Business Competencies:
 >>Catalyst and 4D Methodologies; Help Desk Institute (HDI); Microsoft Operations Framework and Solutions Foundation; CPS/PMP certified; Rational Unified process (RUP); Search Engine Optimization (SEO) and Marketing (SEM); Business Systems Analysis and Redesign (BSAR); Entity Relationship Modeling/Design; Business Process Modeling/Redesign; Data Modeling and Relational Design; Senn Delaney Leadership Program; PMI Scheduling and Risk Management; Web\Data Analytics and Insight Analysis.
