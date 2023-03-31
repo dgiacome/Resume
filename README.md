@@ -13,8 +13,12 @@ CORE COMPETENCIES AND PROVEN EXPERIENCE
 •	Cybersecurity, Root cause analysis, Breach/Security/HIPAA Audits	•	Technical, Solution, Application, Infrastructure Architecture	•	Designing, Implementing and Governing Operations
 
 PROFESSIONAL EXPERIENCE
-  
-  LIO Insurance: AVP Program Delivery (2021 – Present)
+
+  South Jersey Industries (SJI): Infrastructure Manager (2022 – 2023)
+>> Responsible for all IT/OT Infrastructure rebuilding team into structured focus areas for Compute, Networking, Storage, Patching, Telecommunications, Telephony, and support.  Strong partner/vendor management with core technologies: Cisco Networking; Fortinet Security; VMware VCenter; Rubrik; Citrix; Linux; and Microsoft Windows, SQL, SharePoint, Azure, M365.  Migrated team from mostly reactive to being proactive by optimizing and enhancing notifications and alerts using Solarwinds and Service Now including >240 Circuits with multiple Carriers at >100 locations with redundant connectivity to 2 Data Centers.  Responsible for direct and contractor time assisting leadership and PMO with Capital and Operational projects and programs including: Facilities; TSA\TCIP; LNG\RNG; upgrades\enhancements; Audits; Partner and Vendor Management. Responsible for all tickets and escalations including Sev1 outages and Root Cause analysis using ServiceNow for ITIL based Service Management and Delivery.  
+
+
+  LIO Insurance: AVP Program Delivery (2021 – 2022)
 >> A start up Insurance company combining deep insurance expertise with state-of-the-art digital capabilities providing a unique and pleasant insurance experience.  Led the Data Science initiative, external collaborative solutions, and internal collaborative strategic planning and delivery using SharePoint, Teams, Okta, and Atlassian (JIRA and Confluence).  Migrated new projects to IT and supported Portal initiatives.
 
   Talkiatry: VP Infrastructure (2020 – 2021)
