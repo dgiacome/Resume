@@ -1,7 +1,7 @@
 # Resume 
 Resume
 
-DANIEL GIACOMELLI, PMP, MCP  (215)499-7131  |  dan@giacomelli.com  |  https://linkedin.com/in/giacomelli
+DANIEL GIACOMELLI, PMP, MCP  (215)499-7131  |  dan@giacomelli.com  |  https://linkedin.com/in/giacomelli |  https://giacomelli.com
 
 INFORMATION TECHNOLOGY ARCHITECT and PROGRAM MANAGEMENT PROFESSIONAL
 
