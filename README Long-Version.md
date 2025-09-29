@@ -1,4 +1,4 @@
-# Resume 
+# Resume Long-Version
 Resume
 
 DANIEL GIACOMELLI, PMP, MCP  (215)499-7131  |  dan@giacomelli.com  |  https://linkedin.com/in/giacomelli |  https://giacomelli.com
