@@ -3,8 +3,11 @@
 DANIEL GIACOMELLI, PMP, MCP 
 Langhorne, PA (Greater Philadelphia Area) | 215-499-7131 | dan@giacomelli.com | linkedin.com/in/giacomelli
 
+
 Security & GRC | Enterprise Architecture | Infrastructure Modernization | Program Management (PMP) | Security & Compliance 
+
 Security & GRC executive and PMP-certified program leader who turns fragmented controls into durable programs.  Aligns enterprise security architecture to business outcomes, reduces measurable risk, and makes compliance repeatable across PCI DSS, NIST CSF/800-53, HIPAA/HITECH, FERPA, and HECVAT/TX-RAMP frameworks. Applies a People – Process – Technology (PPT) approach to embed governance into daily operations, product development, and audits.
+
 
 Key Achievements
 •	Reduced enterprise risk exposure by 50%; improved Cybersecurity Credit Rating by 70 points (4 grades) and lowered CVSS by 75% via Product Baseline Security Controls (PBSC).  
@@ -12,8 +15,11 @@ Key Achievements
 •	Modernized infrastructure and segmented cardholder data (CHD) and PII across Ark (Data Center), and Cloud Partners (AWS, Azure, and IBM) to ensure compliance with PCI DSS, NIST CSF, and HIPAA.  
 •	Partnered with Product, Engineering, Legal, and Client Ops to bridge security and compliance, reducing audit friction and strengthening revenue protection.
 
+
 Core Competencies
+
 Governance, Risk & Compliance (PCI DSS, NIST CSF/800-53, HIPAA/HITECH, SOC 2, HECVAT, TX-RAMP, FERPA) • Program/Project Management (PMP, ITIL) • Enterprise/Solutions Architecture • Cloud Security (AWS, Azure, IBM) • IAM/PAM, SIEM/SOAR, DevOps/ITOps/SecOps/DevSecOps • Incident Response, BCP/DR, Vulnerability Management • People – Process – Technology Leadership  
+
 
 Professional Experience
 
@@ -42,21 +48,28 @@ City of Philadelphia Dept. of Public Health — Infrastructure & Security Archit
 •	Delivered enterprise architectures (conceptual to logical to physical) for City OIT; migrated early to O365 (AD, Exchange, OneDrive) and standardized proactive support patterns.  
 •	Re-architected ADT/ORM/ORU interfaces (radiology, mammography, pharmacy, lab); built a SharePoint intranet for outages, PMO archives, and audit evidence.
 •	Extended security leadership to Medical Examiner’s Office, Air Management, and first responder agencies (Police, Fire, OEM). 
-•	Strengthened public health governance: aligned IT, security, and compliance practices across multiple city agencies (Health, Medical Examiner, Air Management), ensuring HIPAA/NIST adherence and continuity of essential services.  
+•	Strengthened public health governance: aligned IT, security, and compliance practices across multiple city agencies (Health, Medical Examiner, Air Management), ensuring HIPAA/NIST adherence and continuity of essential services.
+
 
 Earlier Career Highlights
+
 CIO, FirstLab/Genomind/RID Ventures: hybrid-cloud infra, PCI/HIPAA compliance, delivering $300K annual savings. Solutions Architect and Program Management roles (CIGNA, Canon, CDI, CSC): delivered SOA, SharePoint, outsourcing (~$15M new business).  Senior Technical Architect/Instructor (Micro Endeavors/CSC): Microsoft.NET, security auditing, smart card tracking.
 
+
 Education & Certifications
+
 •	B.S. Business Administration (Operations Management) — West Virginia University
 •	Certifications: PMP, ITIL-F, MCP (AZ-900), HIPAA/HITECH, PCI DSS Audit/Remediation (CISSP in progress)
 
+
 Community Leadership
+
 •	Board Member: Middletown Township Parks & Recreation; Efasce di Philadelphia; ecwusers.com.
 •	Certified USSF Soccer Assignor & Ice Hockey Official; advocate for compliance in youth sports.
 •	Master Mason, F.&A.M — committed to integrity, service, and lifelong learning.
 
 Program Management & Leadership
+
 •	PMP-certified program leader; applies People – Process – Technology and Discover – Design – Develop – Deploy (4D) methodology.  
 •	Built PMO-aligned governance models (ITIL/ITSM/SDLC) ensuring delivery accountability, resource alignment, and executive reporting (KPIs/KRIs).  
 •	Led enterprise programs across Infra, ITOps, SecOps, DevOps, and DevSecOps — blending modernization and compliance (PCI, NIST, HIPAA, HECVAT) with measurable outcomes.
