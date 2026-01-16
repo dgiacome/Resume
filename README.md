@@ -1,75 +1,132 @@
 #Resume
 
-DANIEL GIACOMELLI, PMP, MCP 
+Daniel Giacomelli, PMP, MCP, CC
 Langhorne, PA (Greater Philadelphia Area) | 215-499-7131 | dan@giacomelli.com | linkedin.com/in/giacomelli
 
+## Executive Summary
 
-Security & GRC | Enterprise Architecture | Infrastructure Modernization | Program Management (PMP) | Security & Compliance 
-
-Security & GRC executive and PMP-certified program leader who turns fragmented controls into durable programs.  Aligns enterprise security architecture to business outcomes, reduces measurable risk, and makes compliance repeatable across PCI DSS, NIST CSF/800-53, HIPAA/HITECH, FERPA, and HECVAT/TX-RAMP frameworks. Applies a People – Process – Technology (PPT) approach to embed governance into daily operations, product development, and audits.
-
-
-Key Achievements
-•	Reduced enterprise risk exposure by 50%; improved Cybersecurity Credit Rating by 70 points (4 grades) and lowered CVSS by 75% via Product Baseline Security Controls (PBSC).  
-•	Established audit-ready cadences (GRC + ITIL/ITSM/SDLC) integrating SIEM/SOAR, IAM/PAM, and DevSecOps; accelerated client audits and RFPs with KPI-driven evidence.  
-•	Modernized infrastructure and segmented cardholder data (CHD) and PII across Ark (Data Center), and Cloud Partners (AWS, Azure, and IBM) to ensure compliance with PCI DSS, NIST CSF, and HIPAA.  
-•	Partnered with Product, Engineering, Legal, and Client Ops to bridge security and compliance, reducing audit friction and strengthening revenue protection.
+- Architecture-first leader with deep experience in Enterprise Architecture, GRC and Cybersecurity, and large-scale modernization and program strategy. I translate complex systems into clear models that unify people, data, and technology into predictable, executable outcomes.
+- Grounded in Business Architecture, I structure organizations into architectural viewpoints by mapping business entities into People Process Technology requirements supported by conceptual, logical, and physical models.
+- I lead architecture, governance programs, evidence cycles, modernization roadmaps, and multi-team delivery structures across business, technology, security, and compliance, including Responsible AI governance and AI platform architecture that remain compliant, segmented, identity-centered, and audit-ready.
 
 
-Core Competencies
+### Identity Statement
 
-Governance, Risk & Compliance (PCI DSS, NIST CSF/800-53, HIPAA/HITECH, SOC 2, HECVAT, TX-RAMP, FERPA) • Program/Project Management (PMP, ITIL) • Enterprise/Solutions Architecture • Cloud Security (AWS, Azure, IBM) • IAM/PAM, SIEM/SOAR, DevOps/ITOps/SecOps/DevSecOps • Incident Response, BCP/DR, Vulnerability Management • People – Process – Technology Leadership  
+As an architecture-first leader, I specialize in transforming messy, high-risk environments into clear, risk-manageable, and executable models. My approach spans business, technology, security, and compliance, enabling teams to align quickly, make informed decisions, and deliver measurable outcomes. Grounded in Business Architecture and a People-Process-Technology lens, I translate ambiguity into conceptual, logical, and physical architectures that support modernization roadmaps, establish governance cadence, and enable audit-ready operations. I operate at the intersection of enterprise architecture, GRC, and program delivery, including Responsible AI governance and the design of segmented, identity-centered, and evidence-driven AI platform architectures. My style is practical and structured, positioning organizations for future-state execution and continuous improvement. 
 
+### Top 3 Roles
 
-Professional Experience
+- Principal / Enterprise Architect (Business, Solution, Infrastructure, AI-enabled): Turns complex ecosystems into conceptual, logical, and physical architectures that unify teams, drive modernization roadmaps, and safely integrate AI capabilities into the enterprise operating model, including data flows, identity, segmentation, and platform patterns.
+- Director, GRC and Cybersecurity (Governance, Risk, Audit Readiness, Responsible AI): Builds governance architecture and evidence cycles across PCI, NIST, HIPAA, SOC 2, HECVAT, NIST AI RMF, and TX-RAMP, embedding technical controls into operations and extending the same discipline to Responsible AI through policy, model risk, vendor oversight, and audit-ready artifacts.
+- Technical Program Director (Modernization, Multi-team Delivery, AI implementation): Architects transformation programs, not just project plans, coordinating modernization across cloud, infrastructure, identity, security, and compliance, including AI initiatives from intake to rollout with risk gating, orchestration, operationalization, and measurable outcomes tied to risk reduction and business value.
 
-Ruffalo Noel Levitz (RNL) — GRC & Information Security Leadership | 2023–Present
-•	Built enterprise-wide GRC program: designed PBSC mapped to PCI DSS, NIST, HIPAA, HECVAT/TX-RAMP, FERPA; implemented PMP-style governance cadences and a People – Process – Technology model adopted across Product, Infra, and Client Ops.  
-•	Shortened audit cycles and improved client assurance by integrating MXDR (EDR/XDR), SIEM/SOAR, IAM/PAM, ITOps, SecOps, DevOps, and DevSecOps practices into monthly and quarterly reviews, with dashboards for vulnerability trends and remediation velocity. 
-•	Governed cardholder data CHD/PII segmentation and endpoint hardening across AWS/Azure/IBM to sustain PCI scope and healthcare data protection requirements.  
-•	Acted as external-facing leader for audits, RFPs, and risk reviews, translating posture into clear commitments for clients and regulators.
-•	Advanced GRC program maturity: established a repeatable audit cycle, risk register, and compliance scorecards that increased cross-functional accountability and reduced client assurance timelines by 30%.  
+### Architectural Strengths
 
-South Jersey Industries — Infrastructure & Security Manager | 2022–2023
-•	Modernized IT/OT operations across 100+ locations / 240+ circuits; deployed SolarWinds + ServiceNow for proactive monitoring, reducing Sev1 incidents and MTTR.  
-•	Structured team into compute/network/storage/patching/telecom pillars; governed vendor stack (Cisco, Fortinet, VMware, Rubrik, Microsoft) using PMP/ITIL delivery aligned to TSA pipeline compliance. 
+•	Conceptual, logical, and physical architecture modeling that makes complexity executable
+•	System, data, and identity mapping across business and technology domains
+•	Current-state to future-state roadmaps that connect architecture to delivery sequencing
+•	Cloud, identity, segmentation, and security patterns for regulated environments
+•	AI-enabled architecture: safe integration patterns for data flows, access boundaries, and platform services
+•	Visual modeling and “decision support diagrams” for executives and cross-functional teams
+•	Translating business intent into technical models that teams can build and operate
 
-Talkiatry — VP Infrastructure / Director, Product Management | 2020–2021
-•	Scaled tele-psychiatry platform from 21 to 100+ staff in six months; improved security score 25% to 80% in 60 days with SSO/SAML, MDM/EDR, and M365/Azure baselines.  
-•	Achieved PCI DSS compliance with HIPAA/HITECH safeguards; mapped controls to NIST CSF for long-term governance.  
-•	Implemented HL7 interfaces (DFT, ADT, SIU, ORU) and secure SFTP workflows; standardized incident/change flows with Jira/Zendesk/Teams under PMP governance.
+### Governance, Risk, and Modernization Execution
 
-LIO Insurance — AVP Program Delivery | 2021–2022
-•	Program delivery & collaboration: led data-science and portal initiatives using SharePoint, Okta, Jira/Confluence; structured backlog and releases via PMP/Agile methods aligned to stakeholder OKRs. 
-•	Enterprise enablement: migrated projects to IT with supportable runbooks and access standards, improving cross-team throughput. 
+•	Builds governance that operates: policies to controls to evidence, on a predictable cadence
+•	Translates frameworks into execution (PCI, NIST, HIPAA, SOC 2, HECVAT, TX-RAMP) with embedded technical controls
+•	Establishes risk-based prioritization and modernization sequencing for highest-risk, highest-value.
+•	Creates audit-ready artifacts and operating rhythms that scale across teams and vendors
+•	Drives modernization programs across cloud, infrastructure, identity, and security with measurable risk reduction
+•	Extends governance discipline to Responsible AI: use-case intake, risk gating, vendor oversight, and documentation that stands up to review
 
-City of Philadelphia Dept. of Public Health — Infrastructure & Security Architect | 2012–2020
-•	Led security, infrastructure, and compliance for EHR across Ambulatory (HIPAA), Lab (LIMS), and Prisons (CJIS); produced security risk analyses, audit artifacts, and monthly risk dashboards.  
-•	Delivered enterprise architectures (conceptual to logical to physical) for City OIT; migrated early to O365 (AD, Exchange, OneDrive) and standardized proactive support patterns.  
-•	Re-architected ADT/ORM/ORU interfaces (radiology, mammography, pharmacy, lab); built a SharePoint intranet for outages, PMO archives, and audit evidence.
-•	Extended security leadership to Medical Examiner’s Office, Air Management, and first responder agencies (Police, Fire, OEM). 
-•	Strengthened public health governance: aligned IT, security, and compliance practices across multiple city agencies (Health, Medical Examiner, Air Management), ensuring HIPAA/NIST adherence and continuity of essential services.
+### Operating Model and Leadership Approach
 
+I lead with structure and outcomes. I start by mapping the current state (people, process, technology, risk), define a practical future state, and build a roadmap that teams can execute. My work style is visual and decision-driven: I use architecture models to align stakeholders, expose dependencies, and translate requirements into buildable, audit-ready solutions. Whether I’m leading modernization, GRC, or AI initiatives, I focus on repeatable governance, measurable risk reduction, and delivery cadence that sticks.  My approach is grounded in formal enterprise architecture methods and years of leading cross-functional delivery in complex environments.
+Architecture is not something I do. It is how I think.
 
-Earlier Career Highlights
+### Representative Results
 
-CIO, FirstLab/Genomind/RID Ventures: hybrid-cloud infra, PCI/HIPAA compliance, delivering $300K annual savings. Solutions Architect and Program Management roles (CIGNA, Canon, CDI, CSC): delivered SOA, SharePoint, outsourcing (~$15M new business).  Senior Technical Architect/Instructor (Micro Endeavors/CSC): Microsoft.NET, security auditing, smart card tracking.
+•	Designed and executed enterprise and solution architectures that aligned business, security, and technology teams around a single future-state model and delivery roadmap.
+•	Established governance and evidence cycles that reduced audit friction and enabled continuous compliance across regulated environments.
+•	Led modernization initiatives spanning cloud, infrastructure, identity, and security with measurable risk reduction and operational readiness improvements.
+•	Built and operationalized GRC programs that embedded controls into day-to-day operations rather than treating compliance as a periodic event.
+•	Guided AI initiatives from intake through implementation with risk-aware architecture, governance guardrails, and audit-ready documentation.
+•	Acted as the connective tissue between executives, engineers, security, and delivery teams to move complex initiatives from intent to execution across multiple business units.
 
+### How I’m Typically Engaged
 
-Education & Certifications
+Organizations bring me in to create clarity and momentum in complex, high-risk initiatives. My typical engagement includes:
+•	Assessing current-state architecture, risk posture, and operating model
+•	Defining future-state models and prioritized roadmaps
+•	Establishing governance and delivery cadence across teams
+•	Partnering with executives and technical leaders to drive alignment
+•	Staying engaged through execution to ensure outcomes hold
+•	Producing decision-ready models and diagrams that make tradeoffs visible and execution measurable
 
-•	B.S. Business Administration (Operations Management) — West Virginia University
-•	Certifications: PMP, ITIL-F, MCP (AZ-900), HIPAA/HITECH, PCI DSS Audit/Remediation (CISSP in progress)
+I deliver the most value in environments with aligned leadership, clear accountability, and a culture that values clarity, integrity, mentorship, and continuous improvement. Best fit: roles with real scope where architecture-first governance and modernization translate into measurable outcomes.
 
+### AI Focus (Architecture + Governance)
 
-Community Leadership
+•	AI use-case intake and prioritization with risk-based gating and business alignment
+•	Responsible AI governance: policy, controls, model risk, vendor oversight, and audit-ready artifacts
+•	AI-enabled architecture patterns: data flows, identity, segmentation, and shared platform services
+•	Operationalization of AI: monitoring, change control, and evidence trails that hold under audit
+•	Technology-agnostic AI conceptual frameworks and shared ontology work to standardize language, decision models, and governance across vendors and platforms
 
-•	Board Member: Middletown Township Parks & Recreation; Efasce di Philadelphia; ecwusers.com.
-•	Certified USSF Soccer Assignor & Ice Hockey Official; advocate for compliance in youth sports.
-•	Master Mason, F.&A.M — committed to integrity, service, and lifelong learning.
+## Core Competencies
 
-Program Management & Leadership
+Enterprise Architecture (Solutions, Technical, Infrastructure, Application) • Conceptual to Logical to Physical Modeling • Process Engineering • Systems Mapping and Modernization • People Process Technology Alignment • Governance and Security Architecture • GRC (ISC2 CC, PCI, NIST, AI RMF, HIPAA, SOC 2, TX-RAMP) • Risk Modeling and Remediation • Continuous Assurance and Audit Readiness • IAM, SIEM, SOAR Alignment • Cloud and Infrastructure Transformation • Program and Portfolio Strategy • Hybrid Agile / Waterfall Delivery • Operational Maturity Improvement • Incident Preparedness, BCP/DR • AI Architecture, Compliance, and Prompt Engineering.
 
-•	PMP-certified program leader; applies People – Process – Technology and Discover – Design – Develop – Deploy (4D) methodology.  
-•	Built PMO-aligned governance models (ITIL/ITSM/SDLC) ensuring delivery accountability, resource alignment, and executive reporting (KPIs/KRIs).  
-•	Led enterprise programs across Infra, ITOps, SecOps, DevOps, and DevSecOps — blending modernization and compliance (PCI, NIST, HIPAA, HECVAT) with measurable outcomes.
+## Professional Experience
+
+### Ruffalo Noel Levitz (RNL), Security and GRC Manager (acting CISO) / Enterprise Architect | 6/2023 to 10/2025
+
+•	Acting CISO driving enterprise risk reduction, audit strategy, vendor risk management, and client and regulator assurance; built repeatable evidence cycles, compliance scorecards, governance cadence, and centralized risk register, reducing client assurance timelines by 30% and improving audit predictability.
+•	Led enterprise architecture and governance across security, compliance, cloud, identity, infrastructure, and product, converting complex ecosystems into executive-ready models accelerating alignment and decisions.
+•	Assisted in establishing Responsible AI governance for RNL AI initiatives, using NIST AI RMF as a baseline and operationalizing EU AI Act-aligned risk concepts to better map to FERPA and PHI-adjacent constraints. 
+•	Authored RNL Edge Logical Reference Model (segmentation, scalability, TitanML, DataGPT, microservices, chatbot engine, custom APIs, and MongoDB Atlas) used across teams for AI platform integration.
+•	Designed AI and CHD platform segmentation and isolation of core RNL platforms while leveraging shared enterprise identity (Entra ID) integrated across AWS, on-prem, IBM Cloud, and Azure.  
+•	Use Entra ID MFA SSO expanded alignment positioning identity architecture as repeatable audit evidence.
+•	Built conceptual, logical, and physical architectures for cloud, identity, segmentation, and data flows; integrated MXDR, SIEM/SOAR, IAM/PAM, ITOps, SecOps, DevOps, and DevSecOps into unified operational and audit cycles with dashboards for vulnerability trends, remediation velocity, and control effectiveness.
+•	Designed Product Baseline Security Controls (PBSC) framework mapped to PCI, NIST, HIPAA, and TX-RAMP, unifying control ownership and strengthening governance across Product, Infrastructure, and ClientOps.
+•	Designed and governed enterprise DLP controls using Microsoft Purview, Fortinet, Rubrik, SentinelOne, MXDR, Amazon GuardDuty and endpoint agents to prevent data exfiltration enforcing compliance standards.
+•	Advanced security operations and control effectiveness deploying AI-assisted detection and response capabilities with MXDR workflows, embedding outcomes into GRC cadence and incident response processes.
+•	Created runbooks, diagrams, and process flows that improved operational maturity and continuity planning; used AI-assisted analysis to accelerate audit documentation, evidence preparation, and risk summaries.
+
+### South Jersey Industries (SJI), Infrastructure & Security Manager | 7/2022 to 2/2023
+
+•	Modernized IT and OT infrastructure across 100+ locations and 240+ circuits, improving SCADA, telemetry, and field operations; Led modernization, delivery, vendor oversight, and operational governance for Cisco, Fortinet, VMware, Rubrik, Citrix, Linux, Windows/SQL, Azure, and M365.
+•	Directed Sev1 incident response and RCA across IT/OT; converted reactive operations to proactive support by optimizing SolarWinds and ServiceNow and restructuring the infrastructure team into focused pillars, aligning workloads across internal staff, MSPs, with shared accountability and responsibilities using new RACI model.
+•	Coordinated Infrastructure, Security, and PMO resources for capital and operational programs including facilities, TSA/TCIP pipeline compliance, LNG/RNG initiatives, upgrades, and cross-team enhancements.
+LIO Insurance, AVP Program Delivery | 11/2021 to 05/2022
+•	Led program delivery for data-science and actuarial-driven risk and loss modeling plus portal initiatives, aligning Underwriting, Actuarial, Data, Engineering, Sales, Ops, and IT to phased milestones (4D).
+•	Operationalized the data-science workflow: defined workstreams, governance cadence, and artifacts including hypothesis bank, dataset and data lake tracking, and “signal” sourcing (crime, proximity, semantics, property-level signals) to support scoring and pricing model iterations including data normalization and QA.
+•	Created flow diagrams and process models for portal scoring integration, data refresh and ingestion patterns, and runbooks that improved supportability and reduced rework during handoffs to IT.
+•	Built solution architecture flow diagrams and process models that improved SOP quality, completion times, and support readiness for portal and analytics workflows.
+Talkiatry, VP Infrastructure / Director Product Management | 11/2020 to 11/2021
+•	Built a 100 percent cloud-based infrastructure supporting rapid growth from 21 to 100+ staff; improved the security score from 25 to 80 percent in 60 days through SSO/SAML, MDM/EDR, hardened M365/Azure and Domain (DNS) configurations, and Azure AD policies; enabled full remote telepsychiatry operations and achieved PCI compliance with HIPAA/HITECH safeguards mapped to NIST.
+•	Migrated the organization from Google Workspace to M365/Azure, established scalable identity and application governance, built and mentored the technical support team, and standardized incident, change, and support workflows across Jira, Zendesk, Teams, and eClinicalWorks.
+•	Implemented HL7 interfaces (DFT/ADT/SIU/ORU) and SFTP workflows to strengthen clinical interoperability.
+
+### PMHCC (City of Philadelphia, Dept Public Health), Infrastructure & Security Architect | 10/2012 to 6/2020
+
+•	Led security, infrastructure, and compliance for EHR across Ambulatory (HIPAA), Lab (LIMS), and Prisons (CJIS), producing Security Risk Analyses, audit artifacts, and monthly risk dashboards.
+•	Delivered conceptual, logical, and physical enterprise architectures for City OIT and established standardized support and operational patterns across clinical and correctional environments.
+•	Re-architected ADT/ORM/ORU interfaces supporting radiology, mammography, pharmacy, and lab systems.
+•	Implemented a governing SharePoint intranet for outages, PMO, audit evidence, and Metrics reports.
+•	Extended security leadership to Air Management, Police, Fire, OEM, and the Medical Examiner’s Office, strengthening multi-agency operational readiness and aligning IT, security, and compliance practices across city agencies to ensure continuity of services.
+
+## Earlier Career Highlights
+
+CIO, FirstLab/Genomind/RID Ventures: hybrid-cloud infra, PCI/HIPAA compliance, delivering $300K annual savings. Solutions Architect and Program Management roles (CIGNA, Canon, CDI, CSC, Comcast): delivered SOA initiatives, SharePoint modernization, outsourcing programs (~$15M new business), and BSS/OSS program support for large-scale service delivery.  Senior Technical Architect/Instructor (Micro Endeavors/CSC): Microsoft.NET; business, technical and solutions architecture; security auditing, smart card tracking.
+
+## Education & Certifications
+
+•	Bachelor of Science, Business Administration (Operations Management) - West Virginia University
+•	Certifications: PMI PMP, ITIL, MCSE, AZ-900, HIPAA/HITECH, PCI DSS, ISC2 CC (CISSP in progress), TX-RAMP
+
+##Community Leadership and Non-profit
+
+•	Board Member: Middletown Township Parks & Recreation; Efasce di Philadelphia; eCWusers.com Admin.
+•	Certified: USSF Official, Assignor; AAHA Ice Hockey Official; USABH Official; advocate for youth sports.
+•	3rd Degree Master Mason, F.&A.M — committed to integrity, service, and lifelong learning.
