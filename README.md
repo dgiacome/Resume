@@ -1,7 +1,6 @@
-# Resume
+# Resume of Daniel Giacomelli, PMP, MCP, CC
 
-> Daniel Giacomelli, PMP, MCP, CC
-> Langhorne, PA (Greater Philadelphia Area) | 215-499-7131 | dan@giacomelli.com | https://linkedin.com/in/giacomelli 
+Langhorne, PA (Greater Philadelphia Area) | 215-499-7131 | dan@giacomelli.com | https://linkedin.com/in/giacomelli 
 
 ## Executive Summary
 
@@ -140,7 +139,7 @@ CIO, FirstLab/Genomind/RID Ventures: hybrid-cloud infra, PCI/HIPAA compliance, d
 - Bachelor of Science, Business Administration (Operations Management) - West Virginia University
 - Certifications: PMI PMP, ITIL, MCSE, AZ-900, HIPAA/HITECH, PCI DSS, ISC2 CC (CISSP in progress), TX-RAMP
 
-##Community Leadership and Non-profit
+## Community Leadership and Non-profit
 
 - Board Member: Middletown Township Parks & Recreation; Efasce di Philadelphia; eCWusers.com Admin.
 - Certified: USSF Official, Assignor; AAHA Ice Hockey Official; USABH Official; advocate for youth sports.
