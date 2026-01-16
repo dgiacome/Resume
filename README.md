@@ -1,7 +1,7 @@
 # Resume
 
 Daniel Giacomelli, PMP, MCP, CC
-Langhorne, PA (Greater Philadelphia Area) | 215-499-7131 | dan@giacomelli.com | linkedin.com/in/giacomelli
+Langhorne, PA (Greater Philadelphia Area) | 215-499-7131 | dan@giacomelli.com | https://linkedin.com/in/giacomelli 
 
 ## Executive Summary
 
